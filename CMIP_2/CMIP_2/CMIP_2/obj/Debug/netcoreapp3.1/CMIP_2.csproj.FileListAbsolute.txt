@@ -1,0 +1,11 @@
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\bin\Debug\netcoreapp3.1\CMIP_2.exe
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\bin\Debug\netcoreapp3.1\CMIP_2.deps.json
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\bin\Debug\netcoreapp3.1\CMIP_2.runtimeconfig.json
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\bin\Debug\netcoreapp3.1\CMIP_2.runtimeconfig.dev.json
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\bin\Debug\netcoreapp3.1\CMIP_2.dll
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\bin\Debug\netcoreapp3.1\CMIP_2.pdb
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\obj\Debug\netcoreapp3.1\CMIP_2.csprojAssemblyReference.cache
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\obj\Debug\netcoreapp3.1\CMIP_2.AssemblyInfoInputs.cache
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\obj\Debug\netcoreapp3.1\CMIP_2.AssemblyInfo.cs
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\obj\Debug\netcoreapp3.1\CMIP_2.dll
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_2\CMIP_2\CMIP_2\obj\Debug\netcoreapp3.1\CMIP_2.pdb

@@ -1,0 +1,6 @@
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_3\CMIP_3\obj\Debug\CMIP_3.csprojAssemblyReference.cache
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_3\CMIP_3\bin\Debug\CMIP_3.exe.config
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_3\CMIP_3\bin\Debug\CMIP_3.exe
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_3\CMIP_3\bin\Debug\CMIP_3.pdb
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_3\CMIP_3\obj\Debug\CMIP_3.exe
+D:\_Labs_3_course\_Labs_2_sem\CMIP\CMIP_3\CMIP_3\obj\Debug\CMIP_3.pdb
